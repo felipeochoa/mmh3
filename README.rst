@@ -7,6 +7,11 @@ mmh3
 .. image:: https://ci.appveyor.com/api/projects/status/github/hajimes/mmh3?branch=master&svg=true
    :target: https://ci.appveyor.com/project/hajimes/mmh3
 
+.. note::
+   This is the repository for `mmh3-binary<https://pypi.org/project/mmh3-binary/>`_ a fork
+   of `mmh3<https://github.com/hajimes/mmh3>`_ that adds wheel support. All changes/PRs should
+   be directed upstream if possible.
+
 Python wrapper for MurmurHash (MurmurHash3), a set of fast and robust hash functions.
 
 mmh3 2.5.1 supports Python 2.7, Python 3.3 and higher.
